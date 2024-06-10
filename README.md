@@ -1,8 +1,8 @@
 # Compliance
 
-Security means several things. In a broad context security covers the physical, administrative and technical OpenShift Compliance Operator. Basic context and specifics in regards to security requirement on RedHat's OpenShift Compliance Operator
+Security means several things: In a broad context, security covers the physical, administrative and technical aspects of any program or project with it's repsective systems. RedHat's OpenShift Compliance Operator can implement security settings.
 
-This repo contains useful Compliance Operator tools and techniques to help rapidly assess and secure OpenShift clusters using the Compliance Operator available in the OpenShift Operator Marketplace. 
+This repo contains useful Compliance Operator information, tools and techniques. 
 
 This is a work in progress 
 
