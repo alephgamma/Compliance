@@ -1,6 +1,6 @@
 # Compliance
 
-Security means several things: In a broad context, security covers the physical, administrative and technical aspects of any program or project with it's repsective systems. RedHat's OpenShift Compliance Operator can implement security settings.
+Security means several things: In a broad context, security covers the physical, administrative and technical aspects of any program or project with it's repsective systems. RedHat's OpenShift Compliance Operator can be used to manage administrative (manaual checks) and implement certain security settings.
 
 This repo contains useful Compliance Operator information, tools and techniques. 
 
