@@ -4,7 +4,13 @@ Security means several things: In a broad context, security covers the physical,
 
 This repo contains useful Compliance Operator information, tools and techniques. 
 
-This is a work in progress 
+This is a work in progress.
+
+# Squishy terms
+* physical
+* administrative
+* technical
+* policy
 
 # The Requirements
 
