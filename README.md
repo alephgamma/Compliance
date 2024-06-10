@@ -7,6 +7,7 @@ This repo contains useful Compliance Operator information, tools and techniques.
 This is a work in progress.
 
 # Squishy terms
+* Compliance
 * Operator
 * Upstream
 * physical
