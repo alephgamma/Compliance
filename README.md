@@ -8,7 +8,7 @@ This is a work in progress.
 
 # `TL;DR` Squishy terms
 * **Compliance:** Legal and contractual requirements to secure or present -in regards to non technical settings- how a program or project has implemented security best practices and standards.
-* **Operator**: An Operator is a Kubernetes plug-in component or applicaiton that manages and controls the state of resources.
+* **Operator**: An Operator is a Kubernetes plug-in component or application that manages and controls the state of resources.
 * **Upstream**
 * **Physical**
 * **Administrative**
