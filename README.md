@@ -7,8 +7,8 @@ This repo contains useful Compliance Operator information, tools and techniques.
 This is a work in progress.
 
 # `TL;DR` Squishy terms
-* Compliance
-* Operator
+* Compliance: Legal and contractual requirements to secure or present -in regards to non technical settings- how a program or project has implemented security best practices and standards.
+* Operator: An Operator is a Kubernetes plug-in component or applicaiton that manages and controls the state of resources.
 * Upstream
 * physical
 * administrative
