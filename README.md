@@ -8,7 +8,7 @@ This is a work in progress.
 
 # `TL;DR` Squishy terms
 * **Compliance:** Legal and contractual requirements to secure or present -in regards to non technical settings- how a program or project has implemented security best practices and standards.
-* **Operator:** An Operator is a Kubernetes plug-in component or application that manages and controls the state of resources.
+* **Operator:** An Operator is a Kubernetes plug-in component or application that manages and controls the state of Kubernetes resources.
 * **Upstream:** This term is best understood (to me) as the development version of a product. In a small example, Fedora is the upstream source for RHEL. The hard part is connecting **ALL** the upstream projects with the downstream product names. 
 * **Physical:** The fences, walls, doors, locks and badges required to touch a system
 * **Administrative:** The paperwork, manual procedures, HR policies and other written instructions - AKA the bureaucracy. 
