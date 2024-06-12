@@ -14,7 +14,7 @@ This is a work in progress.
 * **Administrative:** The paperwork, manual procedures, HR policies and other written instructions - AKA the bureaucracy. 
 * **Technical:**
     * Implementers
-    * REsearchers
+    * Researchers
 * **Policy**
 
 # The Requirements
