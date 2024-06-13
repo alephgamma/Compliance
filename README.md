@@ -1,6 +1,6 @@
 # Compliance
 
-Compliance in an IT security context means several things. In a broad sense, Compliance or security covers physical, administrative and technical requirements (legal and contractual) with the implementation of security best practices and standards on any program / project with their respective IT systems. RedHat's OpenShift Compliance Operator can be used to manage these security settings.
+Compliance in an IT security context means several things. In a broad sense, Compliance (or security) covers physical, administrative and technical requirements (legal and contractual) with the implementation of security best practices and standards on any program / project with their respective IT systems. RedHat's OpenShift Compliance Operator can be used to manage these security settings.
 
 This repo contains useful Compliance Operator information, tools and techniques. 
 
@@ -17,7 +17,7 @@ This is a work in progress.
     * Researchers: The brain-boys (or girls) that develop the security fixes.
 * **Policy**
     * The administrative aspect, which is some insane multi-dimensional Venn diagram of overlapping "jurisdictions"
-    * The technical aspect which also applying a specific set higher level "rules"
+    * The technical aspect, which also applying a specific set higher level "rules"
 
 # The Requirements
 
