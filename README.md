@@ -16,8 +16,8 @@ This is a work in progress.
     * Implementers: The team that monitor the systems (sysops/sysadmins) and apply the security settings.
     * Researchers: The brain-boys (or girls) that develop the security fixes.
 * **Policy**
-    * The administrative aspect, which is some insane multi-dimensional Venn diagram of overlapping "jurisdictions"
-    * The technical aspect, which also applying a specific set higher level "rules"
+    * The administrative aspect, which is some insane multi-dimensional Venn diagram of overlapping "jurisdictions", should-do's, must-do's, can't-dos... 
+    * The technical aspect, which also applies a specific set higher level "rules" implemented in some "enterprise" level application.
 
 # The Requirements
 
