@@ -14,7 +14,7 @@ Compliance in an IT security context means several things. In a broad sense, Com
     * **Physical:** The fences, walls, doors, locks and badges required to touch a system.
     * **Administrative:** The paperwork, manual procedures, HR policies and other written instructions - AKA the bureaucracy. 
     * **Technical:**
-        * Implementers: The team that monitor the system operations (sysops) / sysadmins), and apply the security settings.
+        * Implementers: The team that monitor the system, operations (sysops) and sysadmins, and apply their respective security settings.
         * Researchers: The brain-boys (or girls) that develop the security fixes.
 * **Policy**
     * The administrative aspect, which is some insane multi-dimensional Venn diagram of overlapping "jurisdictions", should-do's, must-do's, can't-dos... 
